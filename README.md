@@ -32,15 +32,15 @@ To add, remove or change things on the list:
 - [memkind](https://memkind.github.io/memkind/) - A heap manager which enables control of memory characteristics and a partitioning of the heap between kinds of memory
 
 ## Observation and profiling tools
-- [numastat](https://github.com/numactl/numactl) - A program display NUMA allocation statistics
+- [numastat](https://github.com/numactl/numactl) - A program that displays NUMA allocation statistics
 - [NUMACC](https://github.com/mJace/numacc) - A golang-based tool to check CPU affinity and NUMA configuration for containers and pods
 - [NumaTOP](https://github.com/intel/numatop) - An observation tool for runtime memory locality characterization and analysis of processes and threads running on a NUMA system
 - [SnuMAP](https://github.com/SnuMAP/SnuMAP) - A NUMA performance profiler
 - [irqstat](https://github.com/lanceshelton/irqstat) - A `/proc/interrupts` watcher designed for NUMA systems
 - [Numa-Trace](https://github.com/marksfu/Numa-Trace) - A Pin tool to track NUMA memory accesses
-- [NUMAPROF](https://github.com/memtt/numaprof) - A NUMA memory profliler based on Pintool to track remote memory accesses
+- [NUMAPROF](https://github.com/memtt/numaprof) - A NUMA memory profiler based on Pintool to track remote memory accesses
 - [Numalize](https://github.com/matthiasdiener/numalize) - A memory tracing tool to detect communication and page usage of NUMA applications
-- [NumaMMA](https://github.com/numamma/numamma) - A lightweight NUMA memory profiler/analyzer and a NUMA application execution engin
+- [NumaMMA](https://github.com/numamma/numamma) - A lightweight NUMA memory profiler/analyzer and a NUMA application execution engine
 - [numap](https://github.com/numap-library/numap) - A Linux library for memory profiling based on hardware performance monitoring unit
 - [pcm-numa](https://github.com/opcm/pcm)- A tool to monitor local and remote memory accesses on a NUMA system
 
