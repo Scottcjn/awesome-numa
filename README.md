@@ -45,7 +45,7 @@ To add, remove or change things on the list:
 - [pcm-numa](https://github.com/opcm/pcm)- A tool to monitor local and remote memory accesses on a NUMA system
 
 ## Benchmarking
-- [Comm|Scope](https://github.com/c3sr/comm_scope) - A NUMA-aware multi-CPU multi-GPU CUDA data transfer benchmarks
+- [Comm|Scope](https://github.com/c3sr/comm_scope) - A NUMA-aware multi-CPU multi-GPU CUDA data transfer benchmark suite
 - [Numafac](https://github.com/matthiasdiener/numafac) - Scripts to calculate the NUMA factor of NUMA machines, based on the stream and lmbench3 benchmarks
 - [nurdma](https://github.com/sss-lehigh/nurdma) - Understanding RDMA behavior in NUMA systems
 - [numabench](https://github.com/BrownBigData/numabench) - A NUMA benchmarking tool
